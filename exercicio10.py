@@ -1,4 +1,4 @@
-#Crie um programa que leia os numeros e imprima o menor e o menor valor
+#Crie um programa que leia os numeros e imprima o maior e o menor valor
 
 def maxOrmin(*args):
  lista =list(args)
